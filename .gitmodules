@@ -1,0 +1,9 @@
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = http://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = http://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-irblack"]
+	path = bundle/vim-irblack
+	url = http://github.com/wgibbs/vim-irblack.git
