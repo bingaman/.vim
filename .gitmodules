@@ -16,3 +16,9 @@
 [submodule "bundle/vim-sparkup"]
 	path = bundle/vim-sparkup
 	url = http://github.com/bingaman/vim-sparkup.git
+[submodule "bundle/vim-speeddating"]
+	path = bundle/vim-speeddating
+	url = http://github.com/tpope/vim-speeddating.git
+[submodule "bundle/vim-autoclose"]
+	path = bundle/vim-autoclose
+	url = http://github.com/Townk/vim-autoclose.git
