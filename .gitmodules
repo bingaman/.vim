@@ -37,3 +37,9 @@
 [submodule "bundle/vim-supertab"]
 	path = bundle/vim-supertab
 	url = http://github.com/tsaleh/vim-supertab.git
+[submodule "bundle/vim-closetag"]
+	path = bundle/vim-closetag
+	url = http://github.com/marcelinollano/vim-closetag.git
+[submodule "bundle/vim-ragtag"]
+	path = bundle/vim-ragtag
+	url = http://github.com/tpope/vim-ragtag.git
