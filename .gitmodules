@@ -7,9 +7,6 @@
 [submodule "bundle/vim-irblack"]
 	path = bundle/vim-irblack
 	url = http://github.com/wgibbs/vim-irblack.git
-[submodule "bundle/delimitMate"]
-	path = bundle/delimitMate
-	url = http://github.com/Raimondi/delimitMate.git
 [submodule "bundle/zencoding-vim"]
 	path = bundle/zencoding-vim
 	url = http://github.com/mattn/zencoding-vim.git
@@ -46,3 +43,6 @@
 [submodule "bundle/vim-haml"]
 	path = bundle/vim-haml
 	url = http://github.com/tpope/vim-haml.git
+[submodule "bundle/CSS-one-line--multi-line-folding"]
+	path = bundle/CSS-one-line--multi-line-folding
+	url = http://github.com/vim-scripts/CSS-one-line--multi-line-folding.git
