@@ -46,3 +46,15 @@
 [submodule "bundle/CSS-one-line--multi-line-folding"]
 	path = bundle/CSS-one-line--multi-line-folding
 	url = http://github.com/vim-scripts/CSS-one-line--multi-line-folding.git
+[submodule "bundle/vim-yankring"]
+	path = bundle/vim-yankring
+	url = http://github.com/chrismetcalf/vim-yankring.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = http://github.com/tpope/vim-markdown.git
+[submodule "bundle/vim-unimpaired"]
+	path = bundle/vim-unimpaired
+	url = http://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = http://github.com/Raimondi/delimitMate.git
