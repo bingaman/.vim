@@ -31,6 +31,9 @@
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
 	url = http://github.com/tpope/vim-repeat.git
+[submodule "bundle/CSS-one-line--multi-line-folding"]
+	path = bundle/CSS-one-line--multi-line-folding
+	url = http://github.com/vim-scripts/CSS-one-line--multi-line-folding.git
 [submodule "bundle/vim-supertab"]
 	path = bundle/vim-supertab
 	url = http://github.com/tsaleh/vim-supertab.git
@@ -43,9 +46,6 @@
 [submodule "bundle/vim-haml"]
 	path = bundle/vim-haml
 	url = http://github.com/tpope/vim-haml.git
-[submodule "bundle/CSS-one-line--multi-line-folding"]
-	path = bundle/CSS-one-line--multi-line-folding
-	url = http://github.com/vim-scripts/CSS-one-line--multi-line-folding.git
 [submodule "bundle/vim-yankring"]
 	path = bundle/vim-yankring
 	url = http://github.com/chrismetcalf/vim-yankring.git
