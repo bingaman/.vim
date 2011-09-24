@@ -54,7 +54,7 @@
 	url = http://github.com/Raimondi/delimitMate.git
 [submodule "bundle/vim-zencoding"]
 	path = bundle/vim-zencoding
-	url = git@github.com:mattn/zencoding-vim
+	url = git://github.com/mattn/zencoding-vim
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized
