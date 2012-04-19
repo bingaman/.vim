@@ -58,3 +58,6 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized
+[submodule "bundle/vim-orgmode"]
+	path = bundle/vim-orgmode
+	url = git@github.com:jceb/vim-orgmode.git
