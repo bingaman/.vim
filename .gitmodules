@@ -4,15 +4,9 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = git://github.com/tpope/vim-surround
-[submodule "bundle/vim-irblack"]
-	path = bundle/vim-irblack
-	url = git://github.com/wgibbs/vim-irblack
 [submodule "bundle/zencoding-vim"]
 	path = bundle/zencoding-vim
 	url = git://github.com/mattn/zencoding-vim
-[submodule "bundle/vim-sparkup"]
-	path = bundle/vim-sparkup
-	url = git://github.com/bingaman/vim-sparkup
 [submodule "bundle/vim-speeddating"]
 	path = bundle/vim-speeddating
 	url = git://github.com/tpope/vim-speeddating
@@ -25,9 +19,6 @@
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
 	url = git://github.com/tpope/vim-repeat
-[submodule "bundle/CSS-one-line--multi-line-folding"]
-	path = bundle/CSS-one-line--multi-line-folding
-	url = git://github.com/vim-scripts/CSS-one-line--multi-line-folding
 [submodule "bundle/vim-supertab"]
 	path = bundle/vim-supertab
 	url = git://github.com/tsaleh/vim-supertab
@@ -49,18 +40,12 @@
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = git://github.com/tpope/vim-unimpaired
-[submodule "bundle/delimitMate"]
-	path = bundle/delimitMate
-	url = git://github.com/Raimondi/delimitMate
 [submodule "bundle/vim-zencoding"]
 	path = bundle/vim-zencoding
 	url = git://github.com/mattn/zencoding-vim
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized
-[submodule "bundle/vim-orgmode"]
-	path = bundle/vim-orgmode
-	url = git@github.com:jceb/vim-orgmode.git
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
