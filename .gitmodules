@@ -55,3 +55,6 @@
 [submodule "bundle/vim-lastplace"]
 	path = bundle/vim-lastplace
 	url = git://github.com/farmergreg/vim-lastplace.git
+[submodule "bundle/todo.txt-vim"]
+	path = bundle/todo.txt-vim
+	url = https://github.com/dbeniamine/todo.txt-vim.git
